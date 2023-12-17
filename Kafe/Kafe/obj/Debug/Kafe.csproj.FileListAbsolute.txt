@@ -1,0 +1,17 @@
+C:\Users\MSI\source\repos\Kafe\Kafe\bin\Debug\Kafe.exe.config
+C:\Users\MSI\source\repos\Kafe\Kafe\bin\Debug\Kafe.exe
+C:\Users\MSI\source\repos\Kafe\Kafe\bin\Debug\Kafe.pdb
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\MainWindow.g.cs
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\App.g.cs
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe_MarkupCompile.cache
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe_MarkupCompile.lref
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\MainWindow.baml
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe.g.resources
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe.Properties.Resources.resources
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe.exe
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\Kafe.pdb
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\GlavnayaAdmin.g.cs
+C:\Users\MSI\source\repos\Kafe\Kafe\obj\Debug\GlavnayaAdmin.baml
